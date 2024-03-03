@@ -1,0 +1,108 @@
+[Tue Feb 13 18:58:27.955789 2024] [mpm_winnt:notice] [pid 24284:tid 380] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Tue Feb 13 18:58:27.955789 2024] [mpm_winnt:notice] [pid 24284:tid 380] AH00456: Server built: Jan 15 2023 10:24:46
+[Tue Feb 13 18:58:27.955789 2024] [core:notice] [pid 24284:tid 380] AH00094: Command line: 'httpd.exe -d C:/Users/kylef/OneDrive/Desktop/Apache24'
+[Tue Feb 13 18:58:27.964086 2024] [mpm_winnt:notice] [pid 24284:tid 380] AH00418: Parent: Created child process 6996
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 6996:tid 420] AH00354: Child: Starting 64 worker threads.
+[Tue Feb 13 19:08:07.022242 2024] [mpm_winnt:notice] [pid 24284:tid 380] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Feb 13 19:08:09.035692 2024] [mpm_winnt:notice] [pid 6996:tid 420] AH00364: Child: All worker threads have exited.
+[Tue Feb 13 19:08:09.088566 2024] [mpm_winnt:notice] [pid 24284:tid 380] AH00430: Parent: Child process 6996 exited successfully.
+[Tue Feb 13 19:08:25.806552 2024] [mpm_winnt:notice] [pid 22144:tid 372] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Tue Feb 13 19:08:25.808097 2024] [mpm_winnt:notice] [pid 22144:tid 372] AH00456: Server built: Jan 15 2023 10:24:46
+[Tue Feb 13 19:08:25.808097 2024] [core:notice] [pid 22144:tid 372] AH00094: Command line: 'httpd.exe -d C:/Users/kylef/OneDrive/Desktop/Apache24'
+[Tue Feb 13 19:08:25.815123 2024] [mpm_winnt:notice] [pid 22144:tid 372] AH00418: Parent: Created child process 13972
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 13972:tid 392] AH00354: Child: Starting 64 worker threads.
+[Tue Feb 13 19:12:25.313450 2024] [mpm_winnt:notice] [pid 22144:tid 372] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Feb 13 19:12:27.319969 2024] [mpm_winnt:notice] [pid 13972:tid 392] AH00364: Child: All worker threads have exited.
+[Tue Feb 13 19:12:27.357284 2024] [mpm_winnt:notice] [pid 22144:tid 372] AH00430: Parent: Child process 13972 exited successfully.
+[Sun Feb 18 11:18:33.949377 2024] [mpm_winnt:notice] [pid 13352:tid 380] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sun Feb 18 11:18:33.949377 2024] [mpm_winnt:notice] [pid 13352:tid 380] AH00456: Server built: Jan 15 2023 10:24:46
+[Sun Feb 18 11:18:33.949377 2024] [core:notice] [pid 13352:tid 380] AH00094: Command line: 'httpd.exe -d C:/Users/kylef/OneDrive/Desktop/Apache24'
+[Sun Feb 18 11:18:33.956458 2024] [mpm_winnt:notice] [pid 13352:tid 380] AH00418: Parent: Created child process 14916
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 14916:tid 364] AH00354: Child: Starting 64 worker threads.
+[Sun Feb 18 11:32:34.199917 2024] [mpm_winnt:notice] [pid 13352:tid 380] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Feb 18 11:32:36.217914 2024] [mpm_winnt:notice] [pid 14916:tid 364] AH00364: Child: All worker threads have exited.
+[Sun Feb 18 11:32:36.251519 2024] [mpm_winnt:notice] [pid 13352:tid 380] AH00430: Parent: Child process 14916 exited successfully.
+[Tue Feb 20 18:59:05.102196 2024] [mpm_winnt:notice] [pid 15644:tid 368] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Tue Feb 20 18:59:05.105008 2024] [mpm_winnt:notice] [pid 15644:tid 368] AH00456: Server built: Jan 15 2023 10:24:46
+[Tue Feb 20 18:59:05.105008 2024] [core:notice] [pid 15644:tid 368] AH00094: Command line: 'httpd.exe -d C:/Users/kylef/OneDrive/Desktop/Apache24'
+[Tue Feb 20 18:59:05.112566 2024] [mpm_winnt:notice] [pid 15644:tid 368] AH00418: Parent: Created child process 20260
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 20260:tid 396] AH00354: Child: Starting 64 worker threads.
+[Tue Feb 20 19:02:53.516230 2024] [mpm_winnt:notice] [pid 15644:tid 368] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Feb 20 19:02:55.520617 2024] [mpm_winnt:notice] [pid 20260:tid 396] AH00364: Child: All worker threads have exited.
+[Tue Feb 20 19:02:55.563967 2024] [mpm_winnt:notice] [pid 15644:tid 368] AH00430: Parent: Child process 20260 exited successfully.
+[Tue Feb 20 19:03:03.566154 2024] [mpm_winnt:notice] [pid 18880:tid 384] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Tue Feb 20 19:03:03.566154 2024] [mpm_winnt:notice] [pid 18880:tid 384] AH00456: Server built: Jan 15 2023 10:24:46
+[Tue Feb 20 19:03:03.566154 2024] [core:notice] [pid 18880:tid 384] AH00094: Command line: 'httpd.exe -d C:/Users/kylef/OneDrive/Desktop/Apache24'
+[Tue Feb 20 19:03:03.571576 2024] [mpm_winnt:notice] [pid 18880:tid 384] AH00418: Parent: Created child process 12888
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 12888:tid 384] AH00354: Child: Starting 64 worker threads.
+[Tue Feb 20 19:05:00.231404 2024] [mpm_winnt:notice] [pid 18880:tid 384] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Feb 20 19:05:02.250350 2024] [mpm_winnt:notice] [pid 12888:tid 384] AH00364: Child: All worker threads have exited.
+[Tue Feb 20 19:05:02.284843 2024] [mpm_winnt:notice] [pid 18880:tid 384] AH00430: Parent: Child process 12888 exited successfully.
+[Tue Feb 20 19:09:29.945213 2024] [mpm_winnt:notice] [pid 14376:tid 416] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Tue Feb 20 19:09:29.945213 2024] [mpm_winnt:notice] [pid 14376:tid 416] AH00456: Server built: Jan 15 2023 10:24:46
+[Tue Feb 20 19:09:29.945213 2024] [core:notice] [pid 14376:tid 416] AH00094: Command line: 'httpd.exe -d C:/Users/kylef/OneDrive/Desktop/Apache24'
+[Tue Feb 20 19:09:29.954562 2024] [mpm_winnt:notice] [pid 14376:tid 416] AH00418: Parent: Created child process 21472
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 21472:tid 380] AH00354: Child: Starting 64 worker threads.
+[Tue Feb 20 19:26:34.308439 2024] [mpm_winnt:notice] [pid 14376:tid 416] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Feb 20 19:26:36.335348 2024] [mpm_winnt:notice] [pid 21472:tid 380] AH00364: Child: All worker threads have exited.
+[Tue Feb 20 19:26:36.378106 2024] [mpm_winnt:notice] [pid 14376:tid 416] AH00430: Parent: Child process 21472 exited successfully.
+[Sun Mar 03 12:54:45.302077 2024] [mpm_winnt:notice] [pid 23584:tid 404] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sun Mar 03 12:54:45.304079 2024] [mpm_winnt:notice] [pid 23584:tid 404] AH00456: Server built: Jan 15 2023 10:24:46
+[Sun Mar 03 12:54:45.304079 2024] [core:notice] [pid 23584:tid 404] AH00094: Command line: 'httpd -d C:/Users/kylef/OneDrive/Desktop/Academy'
+[Sun Mar 03 12:54:45.311080 2024] [mpm_winnt:notice] [pid 23584:tid 404] AH00418: Parent: Created child process 23512
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 23512:tid 360] AH00354: Child: Starting 64 worker threads.
+[Sun Mar 03 12:55:31.016350 2024] [mpm_winnt:notice] [pid 23584:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Mar 03 12:55:33.038060 2024] [mpm_winnt:notice] [pid 23512:tid 360] AH00364: Child: All worker threads have exited.
+[Sun Mar 03 12:55:33.060305 2024] [mpm_winnt:notice] [pid 23584:tid 404] AH00430: Parent: Child process 23512 exited successfully.
+[Sun Mar 03 12:56:50.275718 2024] [mpm_winnt:notice] [pid 728:tid 372] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sun Mar 03 12:56:50.276336 2024] [mpm_winnt:notice] [pid 728:tid 372] AH00456: Server built: Jan 15 2023 10:24:46
+[Sun Mar 03 12:56:50.276847 2024] [core:notice] [pid 728:tid 372] AH00094: Command line: 'httpd -d C:/Users/kylef/OneDrive/Desktop/Apache24'
+[Sun Mar 03 12:56:50.280273 2024] [mpm_winnt:notice] [pid 728:tid 372] AH00418: Parent: Created child process 2572
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 2572:tid 372] AH00354: Child: Starting 64 worker threads.
+[Sun Mar 03 13:00:08.849679 2024] [mpm_winnt:notice] [pid 728:tid 372] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Mar 03 13:00:10.874998 2024] [mpm_winnt:notice] [pid 2572:tid 372] AH00364: Child: All worker threads have exited.
+[Sun Mar 03 13:00:10.898576 2024] [mpm_winnt:notice] [pid 728:tid 372] AH00430: Parent: Child process 2572 exited successfully.
+[Sun Mar 03 13:00:54.964583 2024] [mpm_winnt:notice] [pid 5588:tid 364] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sun Mar 03 13:00:54.965584 2024] [mpm_winnt:notice] [pid 5588:tid 364] AH00456: Server built: Jan 15 2023 10:24:46
+[Sun Mar 03 13:00:54.965584 2024] [core:notice] [pid 5588:tid 364] AH00094: Command line: 'httpd -d C:/Users/kylef/OneDrive/Desktop/Academy'
+[Sun Mar 03 13:00:54.968966 2024] [mpm_winnt:notice] [pid 5588:tid 364] AH00418: Parent: Created child process 23352
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 23352:tid 364] AH00354: Child: Starting 64 worker threads.
+[Sun Mar 03 13:06:50.910786 2024] [mpm_winnt:notice] [pid 5588:tid 364] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Mar 03 13:06:52.919846 2024] [mpm_winnt:notice] [pid 23352:tid 364] AH00364: Child: All worker threads have exited.
+[Sun Mar 03 13:06:52.947587 2024] [mpm_winnt:notice] [pid 5588:tid 364] AH00430: Parent: Child process 23352 exited successfully.
+[Sun Mar 03 13:07:37.998825 2024] [mpm_winnt:notice] [pid 3824:tid 396] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sun Mar 03 13:07:38.000267 2024] [mpm_winnt:notice] [pid 3824:tid 396] AH00456: Server built: Jan 15 2023 10:24:46
+[Sun Mar 03 13:07:38.000267 2024] [core:notice] [pid 3824:tid 396] AH00094: Command line: 'httpd.exe -d C:/Users/kylef/OneDrive/Desktop/Apache24'
+[Sun Mar 03 13:07:38.004873 2024] [mpm_winnt:notice] [pid 3824:tid 396] AH00418: Parent: Created child process 14324
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 14324:tid 392] AH00354: Child: Starting 64 worker threads.
+[Sun Mar 03 13:09:01.322538 2024] [mpm_winnt:notice] [pid 3824:tid 396] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Mar 03 13:09:03.343046 2024] [mpm_winnt:notice] [pid 14324:tid 392] AH00364: Child: All worker threads have exited.
+[Sun Mar 03 13:09:03.365447 2024] [mpm_winnt:notice] [pid 3824:tid 396] AH00430: Parent: Child process 14324 exited successfully.
+[Sun Mar 03 13:09:07.665196 2024] [mpm_winnt:notice] [pid 13292:tid 380] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sun Mar 03 13:09:07.666215 2024] [mpm_winnt:notice] [pid 13292:tid 380] AH00456: Server built: Jan 15 2023 10:24:46
+[Sun Mar 03 13:09:07.666215 2024] [core:notice] [pid 13292:tid 380] AH00094: Command line: 'httpd.exe -d C:/Users/kylef/OneDrive/Desktop/Apache24'
+[Sun Mar 03 13:09:07.670377 2024] [mpm_winnt:notice] [pid 13292:tid 380] AH00418: Parent: Created child process 23880
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 23880:tid 376] AH00354: Child: Starting 64 worker threads.
+[Sun Mar 03 13:09:28.480533 2024] [mpm_winnt:notice] [pid 13292:tid 380] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Mar 03 13:09:30.514215 2024] [mpm_winnt:notice] [pid 23880:tid 376] AH00364: Child: All worker threads have exited.
+[Sun Mar 03 13:09:30.532288 2024] [mpm_winnt:notice] [pid 13292:tid 380] AH00430: Parent: Child process 23880 exited successfully.
+[Sun Mar 03 13:11:29.683682 2024] [mpm_winnt:notice] [pid 2648:tid 364] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sun Mar 03 13:11:29.685026 2024] [mpm_winnt:notice] [pid 2648:tid 364] AH00456: Server built: Jan 15 2023 10:24:46
+[Sun Mar 03 13:11:29.685026 2024] [core:notice] [pid 2648:tid 364] AH00094: Command line: 'httpd.exe -d C:/Users/kylef/OneDrive/Desktop/Apache24'
+[Sun Mar 03 13:11:29.689319 2024] [mpm_winnt:notice] [pid 2648:tid 364] AH00418: Parent: Created child process 10536
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 10536:tid 388] AH00354: Child: Starting 64 worker threads.
+[Sun Mar 03 13:13:05.357834 2024] [mpm_winnt:notice] [pid 2648:tid 364] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Mar 03 13:13:07.370765 2024] [mpm_winnt:notice] [pid 10536:tid 388] AH00364: Child: All worker threads have exited.
+[Sun Mar 03 13:13:07.386527 2024] [mpm_winnt:notice] [pid 2648:tid 364] AH00430: Parent: Child process 10536 exited successfully.
